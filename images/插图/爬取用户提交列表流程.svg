@@ -1,0 +1,106 @@
+<svg viewBox="0 0 679 447.75" height="448" xmlns:xlink="http://www.w3.org/1999/xlink" width="679" xmlns="http://www.w3.org/2000/svg">
+    <defs/>
+    <g id="group1" transform="translate(1.00,1.00)">
+        <g id="shape2" transform="translate(49.17,0.00)">
+            <path fill="#ffffff" stroke="#323232" d="M22.0,44.0L78.0,44.0L78.0,44.0C90.2,44.0,100.0,34.2,100.0,22.0C100.0,9.8,90.2,.0,78.0,.0L22.0,.0L22.0,.0C9.8,.0,.0,9.8,.0,22.0C.0,34.2,9.8,44.0,22.0,44.0z" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan x="31.6" y="27.6">开始</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(99.17,44.00)">
+            <path stroke-width="2" fill="none" stroke="#454545" d="M.0,.0L.0,34.0"/>
+            <path stroke-width="1" stroke-linecap="round" fill="#454545" stroke="#454545" d="M4.2,34.0L.0,42.5L-4.2,34.0L4.2,34.0"/>
+        </g>
+        <g id="shape4" transform="translate(8.50,86.50)">
+            <path fill="#ffffff" stroke="#323232" d="M181.3,55.0L181.3,.0L.0,.0L.0,55.0L181.3,55.0z" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan x="44.7" y="33.1">获取用户名</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(-0.00,208.50)">
+            <path fill="#ffffff" stroke="#323232" d="M99.2,100.0L198.3,50.0L99.2,.0L.0,50.0L99.2,100.0z" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan x="44.0" y="55.6">用户是否存在</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(99.17,141.50)">
+            <path stroke-width="2" fill="none" stroke="#454545" d="M.0,.0L.0,58.5"/>
+            <path stroke-width="1" stroke-linecap="round" fill="#454545" stroke="#454545" d="M4.2,58.5L.0,67.0L-4.2,58.5L4.2,58.5"/>
+        </g>
+        <g id="shape7" transform="translate(99.17,308.50)">
+            <path stroke-width="2" fill="none" stroke="#454545" d="M.0,.0L.0,69.3"/>
+            <path stroke-width="1" stroke-linecap="round" fill="#454545" stroke="#454545" d="M4.2,69.3L.0,77.8L-4.2,69.3L4.2,69.3"/>
+            <rect height="21.6" x="-5.4" width="12.8" fill="#ffffff" y="21.6"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan x="-5.4" y="38.4">Y</tspan>
+            </text>
+        </g>
+        <g id="shape8" transform="translate(8.50,386.25)">
+            <path fill="#ffffff" stroke="#323232" d="M181.3,59.5L181.3,.0L.0,.0L.0,59.5L181.3,59.5z" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan x="26.7" y="23.3">访问submissions</tspan>
+                <tspan x="30.3" y="46.5">+Username页面</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(189.83,416.00)">
+            <path stroke-width="2" fill="none" stroke="#454545" d="M.0,.0L214.2,.0"/>
+            <path stroke-width="1" stroke-linecap="round" fill="#454545" stroke="#454545" d="M214.2,-4.2L222.7,.0L214.2,4.2L214.2,-4.2"/>
+        </g>
+        <g id="shape10" transform="translate(412.50,386.25)">
+            <path fill="#ffffff" stroke="#323232" d="M181.3,59.5L181.3,.0L.0,.0L.0,59.5L181.3,59.5z" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan x="17.1" y="35.4">获取当页提交列表</tspan>
+            </text>
+        </g>
+        <g id="shape11" transform="translate(453.17,0.00)">
+            <path fill="#ffffff" stroke="#323232" d="M22.0,44.0L78.0,44.0L78.0,44.0C90.2,44.0,100.0,34.2,100.0,22.0C100.0,9.8,90.2,.0,78.0,.0L22.0,.0L22.0,.0C9.8,.0,.0,9.8,.0,22.0C.0,34.2,9.8,44.0,22.0,44.0z" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan x="31.6" y="27.6">结束</tspan>
+            </text>
+        </g>
+        <g id="shape12" transform="translate(393.83,208.50)">
+            <path fill="#ffffff" stroke="#323232" d="M109.3,100.0L218.7,50.0L109.3,.0L.0,50.0L109.3,100.0z" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan x="44.9" y="55.6">是否还有下一页</tspan>
+            </text>
+        </g>
+        <g id="shape13" transform="translate(503.17,386.25)">
+            <path stroke-width="2" fill="none" stroke="#454545" d="M.0,.0L-0.0,-69.3"/>
+            <path stroke-width="1" stroke-linecap="round" fill="#454545" stroke="#454545" d="M-4.2,-69.3L-0.0,-77.8L4.2,-69.3L-4.2,-69.3"/>
+        </g>
+        <g id="shape14" transform="translate(612.50,258.50)">
+            <path stroke-width="2" fill="none" stroke="#454545" d="M.0,.0L53.7,.0L53.7,157.5L-10.2,157.5"/>
+            <path stroke-width="1" stroke-linecap="round" fill="#454545" stroke="#454545" d="M-10.2,161.7L-18.7,157.5L-10.2,153.3L-10.2,161.7"/>
+            <rect height="21.6" x="48.3" width="12.8" fill="#ffffff" y="68.2"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan x="48.3" y="85.0">Y</tspan>
+            </text>
+        </g>
+        <g id="shape15" transform="translate(412.50,86.50)">
+            <path fill="#ffffff" stroke="#323232" d="M181.3,55.0L181.3,.0L.0,.0L.0,55.0L181.3,55.0z" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan x="36.3" y="33.1">写入CSV文件</tspan>
+            </text>
+        </g>
+        <g id="shape16" transform="translate(503.17,208.50)">
+            <path stroke-width="2" fill="none" stroke="#454545" d="M.0,.0L.0,-58.5"/>
+            <path stroke-width="1" stroke-linecap="round" fill="#454545" stroke="#454545" d="M-4.2,-58.5L.0,-67.0L4.2,-58.5L-4.2,-58.5"/>
+            <rect height="21.6" x="-5.4" width="12.8" fill="#ffffff" y="-37.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan x="-5.4" y="-20.2">N</tspan>
+            </text>
+        </g>
+        <g id="shape17" transform="translate(198.33,258.50)">
+            <path stroke-width="2" fill="none" stroke="#454545" d="M.0,.0L56.8,.0L56.8,-144.5L-0.0,-144.5"/>
+            <path stroke-width="1" stroke-linecap="round" fill="#454545" stroke="#454545" d="M-0.0,-140.3L-8.5,-144.5L-0.0,-148.7L-0.0,-140.3"/>
+            <rect height="23.2" x="-13.0" width="141.6" fill="#ffffff" y="-83.2"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan x="-13.0" y="-64.8">N，提示重新输入</tspan>
+            </text>
+        </g>
+        <g id="shape18" transform="translate(503.17,86.50)">
+            <path stroke-width="2" fill="none" stroke="#454545" d="M.0,.0L.0,-26.5L-0.0,-26.5L-0.0,-34.0"/>
+            <path stroke-width="1" stroke-linecap="round" fill="#454545" stroke="#454545" d="M-4.2,-34.0L-0.0,-42.5L4.2,-34.0L-4.2,-34.0"/>
+        </g>
+    </g>
+</svg>
