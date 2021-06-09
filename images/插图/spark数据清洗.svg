@@ -1,0 +1,142 @@
+<svg viewBox="0 0 682 748.942" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="749" width="682">
+    <defs/>
+    <g transform="translate(1.00,1.00)" id="group1">
+        <g transform="translate(290.03,0.00)" id="shape2">
+            <path stroke="#323232" d="M22.0,44.0L78.0,44.0L78.0,44.0C90.2,44.0,100.0,34.2,100.0,22.0C100.0,9.8,90.2,.0,78.0,.0L22.0,.0L22.0,.0C9.8,.0,.0,9.8,.0,22.0C.0,34.2,9.8,44.0,22.0,44.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:宋体;font-size:14.00pt" xml:space="preserve">
+                <tspan x="31.6" y="28.6">开始</tspan>
+            </text>
+        </g>
+        <g transform="translate(340.03,44.00)" id="shape3">
+            <path stroke="#191919" d="M.0,.0L-0.0,21.0" fill="none"/>
+            <path stroke="#191919" d="M3.0,21.0L-0.0,27.0L-3.0,21.0L3.0,21.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(242.00,71.00)" id="shape4">
+            <path stroke="#323232" d="M196.1,68.0L196.1,.0L.0,.0L.0,68.0L196.1,68.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan x="10.8" y="27.6">从HDFS中读取数据至</tspan>
+                <tspan x="33.2" y="50.8">Spark DataFrame</tspan>
+            </text>
+        </g>
+        <g transform="translate(340.03,139.00)" id="shape5">
+            <path stroke="#191919" d="M.0,.0L-0.0,21.0" fill="none"/>
+            <path stroke="#191919" d="M3.0,21.0L-0.0,27.0L-3.0,21.0L3.0,21.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(242.00,166.00)" id="shape6">
+            <path stroke="#323232" d="M196.1,59.6L196.1,.0L.0,.0L.0,59.6L196.1,59.6z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan x="58.8" y="23.4">数据清洗 </tspan>
+                <tspan x="15.2" y="46.6">删除缺失值和异常值</tspan>
+            </text>
+        </g>
+        <g transform="translate(340.03,225.64)" id="shape7">
+            <path stroke="#191919" d="M.0,.0L.0,11.0L-113.0,11.0L-113.0,21.0" fill="none"/>
+            <path stroke="#191919" d="M-110.0,21.0L-113.0,27.0L-116.0,21.0L-110.0,21.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(340.03,225.64)" id="shape8">
+            <path stroke="#191919" d="M.0,.0L.0,11.0L113.0,11.0L113.0,21.0" fill="none"/>
+            <path stroke="#191919" d="M116.0,21.0L113.0,27.0L110.0,21.0L116.0,21.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(242.00,339.28)" id="shape9">
+            <path stroke="#323232" d="M196.1,59.6L196.1,.0L.0,.0L.0,59.6L196.1,59.6z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan x="33.6" y="35.4">处理数值型特征</tspan>
+            </text>
+        </g>
+        <g transform="translate(227.03,312.28)" id="shape10">
+            <path stroke="#191919" d="M.0,.0L.0,11.0L113.0,11.0L113.0,21.0" fill="none"/>
+            <path stroke="#191919" d="M116.0,21.0L113.0,27.0L110.0,21.0L116.0,21.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(453.03,312.28)" id="shape11">
+            <path stroke="#191919" d="M.0,.0L.0,11.0L-113.0,11.0L-113.0,21.0" fill="none"/>
+            <path stroke="#191919" d="M-110.0,21.0L-113.0,27.0L-116.0,21.0L-110.0,21.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(340.03,398.92)" id="shape12">
+            <path stroke="#191919" d="M.0,.0L.0,21.0" fill="none"/>
+            <path stroke="#191919" d="M3.0,21.0L.0,27.0L-3.0,21.0L3.0,21.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(340.03,398.92)" id="shape13">
+            <path stroke="#191919" d="M.0,.0L.0,11.0L-242.0,11.0L-242.0,21.0" fill="none"/>
+            <path stroke="#191919" d="M-239.0,21.0L-242.0,27.0L-245.0,21.0L-239.0,21.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(340.03,398.92)" id="shape14">
+            <path stroke="#191919" d="M.0,.0L.0,11.0L242.0,11.0L242.0,21.0" fill="none"/>
+            <path stroke="#191919" d="M245.0,21.0L242.0,27.0L239.0,21.0L245.0,21.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(242.00,512.56)" id="shape15">
+            <path stroke="#323232" d="M196.1,58.6L196.1,.0L.0,.0L.0,58.6L196.1,58.6z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan x="39.2" y="34.9">更新DataFrame</tspan>
+            </text>
+        </g>
+        <g transform="translate(98.03,485.56)" id="shape16">
+            <path stroke="#191919" d="M.0,.0L.0,11.0L242.0,11.0L242.0,21.0" fill="none"/>
+            <path stroke="#191919" d="M245.0,21.0L242.0,27.0L239.0,21.0L245.0,21.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(340.03,485.56)" id="shape17">
+            <path stroke="#191919" d="M.0,.0L-0.0,21.0" fill="none"/>
+            <path stroke="#191919" d="M3.0,21.0L-0.0,27.0L-3.0,21.0L3.0,21.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(582.03,485.56)" id="shape18">
+            <path stroke="#191919" d="M.0,.0L.0,11.0L-242.0,11.0L-242.0,21.0" fill="none"/>
+            <path stroke="#191919" d="M-239.0,21.0L-242.0,27.0L-245.0,21.0L-239.0,21.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(274.55,598.20)" id="shape19">
+            <path d="M.0,13.1L.0,64.6L.0,64.6C.0,71.9,29.3,77.7,65.5,77.7C101.6,77.7,131.0,71.9,131.0,64.6L131.0,13.1L131.0,13.1C131.0,5.9,101.6,.0,65.5,.0C29.3,.0,.0,5.9,.0,13.1z" fill-rule="nonzero" fill="#ffffff"/>
+            <path stroke="#323232" d="M.0,13.1L.0,64.6L.0,64.6C.0,71.9,29.3,77.7,65.5,77.7C101.6,77.7,131.0,71.9,131.0,64.6L131.0,13.1L131.0,13.1C131.0,5.9,101.6,.0,65.5,.0C29.3,.0,.0,5.9,.0,13.1zM131.0,13.1C131.0,20.3,101.6,26.2,65.5,26.2C29.3,26.2,.0,20.3,.0,13.1" fill="none"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan x="17.1" y="54.3">存储到Redis</tspan>
+            </text>
+        </g>
+        <g transform="translate(340.03,571.20)" id="shape20">
+            <path stroke="#191919" d="M.0,.0L.0,21.0" fill="none"/>
+            <path stroke="#191919" d="M3.0,21.0L.0,27.0L-3.0,21.0L3.0,21.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(290.03,702.94)" id="shape21">
+            <path stroke="#323232" d="M22.0,44.0L78.0,44.0L78.0,44.0C90.2,44.0,100.0,34.2,100.0,22.0C100.0,9.8,90.2,.0,78.0,.0L22.0,.0L22.0,.0C9.8,.0,.0,9.8,.0,22.0C.0,34.2,9.8,44.0,22.0,44.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:SimSun;font-size:14.00pt" xml:space="preserve">
+                <tspan x="31.6" y="28.6">结束</tspan>
+            </text>
+        </g>
+        <g transform="translate(340.03,675.94)" id="shape22">
+            <path stroke="#191919" d="M.0,.0L.0,21.0" fill="none"/>
+            <path stroke="#191919" d="M3.0,21.0L.0,27.0L-3.0,21.0L3.0,21.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(129.00,252.64)" id="group23">
+            <g transform="translate(-0.00,0.00)" id="shape24">
+                <path stroke="#323232" d="M196.1,59.6L196.1,.0L.0,.0L.0,59.6L196.1,59.6z" fill-rule="nonzero" fill="#ffffff"/>
+                <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                    <tspan x="51.6" y="23.4">对ID类特征</tspan>
+                    <tspan x="29.2" y="46.6">进行One-Hot编码</tspan>
+                </text>
+            </g>
+            <g transform="translate(226.00,0.00)" id="shape25">
+                <path stroke="#323232" d="M196.1,59.6L196.1,.0L.0,.0L.0,59.6L196.1,59.6z" fill-rule="nonzero" fill="#ffffff"/>
+                <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                    <tspan x="52.0" y="23.4">对类别特征</tspan>
+                    <tspan x="25.2" y="46.6">进行Multi-Hot编码</tspan>
+                </text>
+            </g>
+        </g>
+        <g transform="translate(0.00,425.92)" id="group26">
+            <g transform="translate(-0.00,-0.00)" id="shape27">
+                <path stroke="#323232" d="M196.1,59.6L196.1,.0L.0,.0L.0,59.6L196.1,59.6z" fill-rule="nonzero" fill="#ffffff"/>
+                <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                    <tspan x="20.8" y="35.4">SUM：用户AC题数</tspan>
+                </text>
+            </g>
+            <g transform="translate(242.00,-0.00)" id="shape28">
+                <path stroke="#323232" d="M196.1,59.6L196.1,.0L.0,.0L.0,59.6L196.1,59.6z" fill-rule="nonzero" fill="#ffffff"/>
+                <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                    <tspan x="21.6" y="35.4">AVG：用户AC均分</tspan>
+                </text>
+            </g>
+            <g transform="translate(484.00,-0.00)" id="shape29">
+                <path stroke="#323232" d="M196.1,59.6L196.1,.0L.0,.0L.0,59.6L196.1,59.6z" fill-rule="nonzero" fill="#ffffff"/>
+                <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                    <tspan x="15.2" y="35.4">用户分类均值和总数</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

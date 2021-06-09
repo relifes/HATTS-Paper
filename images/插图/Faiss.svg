@@ -1,0 +1,86 @@
+<svg viewBox="0 0 223 600.5" xmlns="http://www.w3.org/2000/svg" width="223" height="600" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs/>
+    <g id="group1" transform="translate(1.00,1.00)">
+        <g id="shape2" transform="translate(60.50,0.00)">
+            <path stroke="#323232" fill-rule="nonzero" fill="#ffffff" d="M22.0,44.0L78.0,44.0L78.0,44.0C90.2,44.0,100.0,34.2,100.0,22.0C100.0,9.8,90.2,.0,78.0,.0L22.0,.0L22.0,.0C9.8,.0,.0,9.8,.0,22.0C.0,34.2,9.8,44.0,22.0,44.0z"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan y="27.6" x="31.6">开始</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(60.50,554.50)">
+            <path stroke="#323232" fill-rule="nonzero" fill="#ffffff" d="M22.0,44.0L78.0,44.0L78.0,44.0C90.2,44.0,100.0,34.2,100.0,22.0C100.0,9.8,90.2,.0,78.0,.0L22.0,.0L22.0,.0C9.8,.0,.0,9.8,.0,22.0C.0,34.2,9.8,44.0,22.0,44.0z"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan y="27.6" x="31.6">结束</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(0.00,64.75)">
+            <path stroke="#323232" fill-rule="nonzero" fill="#ffffff" d="M221.0,60.9L221.0,.0L.0,.0L.0,60.9L221.0,60.9z"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan y="36.0" x="36.9">访问组队推荐页面</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(110.50,44.00)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,14.8"/>
+            <path stroke="#191919" fill="#191919" stroke-linecap="round" d="M3.0,14.8L.0,20.8L-3.0,14.8L3.0,14.8" stroke-width="1"/>
+        </g>
+        <g id="shape6" transform="translate(0.00,146.38)">
+            <path stroke="#323232" fill-rule="nonzero" fill="#ffffff" d="M221.0,60.9L221.0,.0L.0,.0L.0,60.9L221.0,60.9z"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan y="24.0" x="19.7">前端向Gin发起Get请求</tspan>
+                <tspan y="47.2" x="18.1">发送用于推荐的Uid/Pid</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(110.50,125.63)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,14.8"/>
+            <path stroke="#191919" fill="#191919" stroke-linecap="round" d="M3.0,14.8L.0,20.8L-3.0,14.8L3.0,14.8" stroke-width="1"/>
+        </g>
+        <g id="shape8" transform="translate(0.00,228.00)">
+            <path stroke="#323232" fill-rule="nonzero" fill="#ffffff" d="M221.0,60.9L221.0,.0L.0,.0L.0,60.9L221.0,60.9z"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan y="24.0" x="22.1">Gin向python Faiss发送</tspan>
+                <tspan y="47.2" x="70.5">gRPC请求</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(110.50,207.25)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,14.8"/>
+            <path stroke="#191919" fill="#191919" stroke-linecap="round" d="M3.0,14.8L.0,20.8L-3.0,14.8L3.0,14.8" stroke-width="1"/>
+        </g>
+        <g id="shape10" transform="translate(0.00,309.63)">
+            <path stroke="#323232" fill-rule="nonzero" fill="#ffffff" d="M221.0,60.9L221.0,.0L.0,.0L.0,60.9L221.0,60.9z"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan y="24.0" x="27.3">Faiss通过近邻搜索后</tspan>
+                <tspan y="47.2" x="31.7">范围Top10的ID列表</tspan>
+            </text>
+        </g>
+        <g id="shape11" transform="translate(110.50,288.88)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,14.8"/>
+            <path stroke="#191919" fill="#191919" stroke-linecap="round" d="M3.0,14.8L.0,20.8L-3.0,14.8L3.0,14.8" stroke-width="1"/>
+        </g>
+        <g id="shape12" transform="translate(0.00,391.25)">
+            <path stroke="#323232" fill-rule="nonzero" fill="#ffffff" d="M221.0,60.9L221.0,.0L.0,.0L.0,60.9L221.0,60.9z"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan y="24.0" x="4.5">Gin获得ID列表后查询数据</tspan>
+                <tspan y="47.2" x="18.5">库获得完整的推荐信息</tspan>
+            </text>
+        </g>
+        <g id="shape13" transform="translate(110.50,370.50)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,14.8"/>
+            <path stroke="#191919" fill="#191919" stroke-linecap="round" d="M3.0,14.8L.0,20.8L-3.0,14.8L3.0,14.8" stroke-width="1"/>
+        </g>
+        <g id="shape14" transform="translate(0.00,472.87)">
+            <path stroke="#323232" fill-rule="nonzero" fill="#ffffff" d="M221.0,60.9L221.0,.0L.0,.0L.0,60.9L221.0,60.9z"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan y="24.0" x="3.7">将全部信息返回Vue进行显</tspan>
+                <tspan y="47.2" x="101.3">示</tspan>
+            </text>
+        </g>
+        <g id="shape15" transform="translate(110.50,452.13)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,14.7"/>
+            <path stroke="#191919" fill="#191919" stroke-linecap="round" d="M3.0,14.7L.0,20.7L-3.0,14.7L3.0,14.7" stroke-width="1"/>
+        </g>
+        <g id="shape16" transform="translate(110.50,533.75)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,14.7"/>
+            <path stroke="#191919" fill="#191919" stroke-linecap="round" d="M3.0,14.7L.0,20.7L-3.0,14.7L3.0,14.7" stroke-width="1"/>
+        </g>
+    </g>
+</svg>

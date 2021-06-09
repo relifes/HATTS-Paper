@@ -1,0 +1,264 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="386" xmlns="http://www.w3.org/2000/svg" width="856" viewBox="0 0 856 386">
+    <defs/>
+    <g transform="translate(1.00,1.00)" id="group1">
+        <g transform="translate(204.50,0.00)" id="shape2">
+            <path fill="#ffffff" d="M391.0,38.0L391.0,.0L.0,.0L.0,38.0L391.0,38.0z" fill-rule="nonzero" stroke="#323232" stroke-width="2"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:SimSun;font-size:18.00pt">
+                <tspan y="28.7" x="51.5">程序设计竞赛组队推荐系统</tspan>
+            </text>
+        </g>
+        <g transform="translate(15.50,95.00)" id="shape3">
+            <path fill="#ffffff" d="M158.0,38.0L158.0,.0L.0,.0L.0,38.0L158.0,38.0z" fill-rule="nonzero" stroke="#000000" stroke-width="2"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:SimSun;font-size:16.00pt">
+                <tspan y="27.8" x="14.2">数据收集模块</tspan>
+            </text>
+        </g>
+        <g transform="translate(226.50,95.00)" id="shape4">
+            <path fill="#ffffff" d="M158.0,38.0L158.0,.0L.0,.0L.0,38.0L158.0,38.0z" fill-rule="nonzero" stroke="#000000" stroke-width="2"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:SimSun;font-size:16.00pt">
+                <tspan y="27.8" x="14.2">特征处理模块</tspan>
+            </text>
+        </g>
+        <g transform="translate(437.50,95.00)" id="shape5">
+            <path fill="#ffffff" d="M158.0,38.0L158.0,.0L.0,.0L.0,38.0L158.0,38.0z" fill-rule="nonzero" stroke="#000000" stroke-width="2"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:SimSun;font-size:16.00pt">
+                <tspan y="27.8" x="35.8">推荐模块</tspan>
+            </text>
+        </g>
+        <g transform="translate(655.00,95.00)" id="shape6">
+            <path fill="#ffffff" d="M158.0,38.0L158.0,.0L.0,.0L.0,38.0L158.0,38.0z" fill-rule="nonzero" stroke="#000000" stroke-width="2"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:SimSun;font-size:16.00pt">
+                <tspan y="27.8" x="14.2">系统业务模块</tspan>
+            </text>
+        </g>
+        <g transform="translate(400.00,38.00)" id="shape7">
+            <path d="M.0,.0L.0,25.0L-305.5,25.0L-305.5,48.5" fill="none" stroke="#000000" stroke-width="2"/>
+            <path fill="#000000" d="M-301.3,48.5L-305.5,57.0L-309.7,48.5L-301.3,48.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(400.00,38.00)" id="shape8">
+            <path d="M.0,.0L.0,25.0L-94.5,25.0L-94.5,48.5" fill="none" stroke="#000000" stroke-width="2"/>
+            <path fill="#000000" d="M-90.3,48.5L-94.5,57.0L-98.7,48.5L-90.3,48.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(400.00,38.00)" id="shape9">
+            <path d="M.0,.0L.0,25.0L116.5,25.0L116.5,48.5" fill="none" stroke="#000000" stroke-width="2"/>
+            <path fill="#000000" d="M120.7,48.5L116.5,57.0L112.3,48.5L120.7,48.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(400.00,38.00)" id="shape10">
+            <path d="M.0,.0L.0,25.0L334.0,25.0L334.0,48.5" fill="none" stroke="#000000" stroke-width="2"/>
+            <path fill="#000000" d="M338.2,48.5L334.0,57.0L329.8,48.5L338.2,48.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(0.00,192.00)" id="group11">
+            <path fill="#ffffff" d="M192.0,36.0L192.0,.0L.0,.0L.0,36.0L192.0,36.0z" transform="matrix(0.00,1.00,-1.00,0.00,36.0,0.0)" fill-rule="nonzero" stroke="#323232" id="shape12" stroke-width="2"/>
+            <g transform="translate(1.00,22.00)" id="shape13">
+                <text xml:space="preserve" style="fill:#191919;font-family:SimSun;font-size:16.00pt">
+                    <tspan y="22.8" x="6.2">用</tspan>
+                    <tspan y="47.6" x="6.2">户</tspan>
+                    <tspan y="72.4" x="6.2">信</tspan>
+                    <tspan y="97.2" x="6.2">息</tspan>
+                    <tspan y="122.0" x="6.2">爬</tspan>
+                    <tspan y="146.8" x="6.2">取</tspan>
+                </text>
+            </g>
+        </g>
+        <path fill="#ffffff" d="M192.0,36.0L192.0,.0L.0,.0L.0,36.0L192.0,36.0z" transform="matrix(0.00,1.00,-1.00,0.00,87.0,192.0)" fill-rule="nonzero" stroke="#323232" id="shape14" stroke-width="2"/>
+        <g transform="translate(52.00,208.00)" id="shape15">
+            <text xml:space="preserve" style="fill:#191919;font-family:SimSun;font-size:16.00pt">
+                <tspan y="28.8" x="6.2">题</tspan>
+                <tspan y="53.6" x="6.2">目</tspan>
+                <tspan y="78.4" x="6.2">信</tspan>
+                <tspan y="103.2" x="6.2">息</tspan>
+                <tspan y="128.0" x="6.2">爬</tspan>
+                <tspan y="152.8" x="6.2">取</tspan>
+            </text>
+        </g>
+        <path fill="#ffffff" d="M192.0,36.0L192.0,.0L.0,.0L.0,36.0L192.0,36.0z" transform="matrix(0.00,1.00,-1.00,0.00,138.0,192.0)" fill-rule="nonzero" stroke="#323232" id="shape16" stroke-width="2"/>
+        <g transform="translate(103.00,208.00)" id="shape17">
+            <text xml:space="preserve" style="fill:#191919;font-family:SimSun;font-size:16.00pt">
+                <tspan y="28.8" x="6.2">提</tspan>
+                <tspan y="53.6" x="6.2">交</tspan>
+                <tspan y="78.4" x="6.2">记</tspan>
+                <tspan y="103.2" x="6.2">录</tspan>
+                <tspan y="128.0" x="6.2">爬</tspan>
+                <tspan y="152.8" x="6.2">取</tspan>
+            </text>
+        </g>
+        <path fill="#ffffff" d="M192.0,36.0L192.0,.0L.0,.0L.0,36.0L192.0,36.0z" transform="matrix(0.00,1.00,-1.00,0.00,189.0,192.0)" fill-rule="nonzero" stroke="#323232" id="shape18" stroke-width="2"/>
+        <g transform="translate(154.00,208.00)" id="shape19">
+            <text xml:space="preserve" style="fill:#191919;font-family:SimSun;font-size:16.00pt">
+                <tspan y="28.8" x="6.2">用</tspan>
+                <tspan y="53.6" x="6.2">户</tspan>
+                <tspan y="78.4" x="6.2">日</tspan>
+                <tspan y="103.2" x="6.2">志</tspan>
+                <tspan y="128.0" x="6.2">收</tspan>
+                <tspan y="152.8" x="6.2">集</tspan>
+            </text>
+        </g>
+        <g transform="translate(94.50,133.00)" id="shape20">
+            <path d="M.0,.0L.0,27.0L-76.5,27.0L-76.5,50.5" fill="none" stroke="#000000" stroke-width="2"/>
+            <path fill="#000000" d="M-72.3,50.5L-76.5,59.0L-80.7,50.5L-72.3,50.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(94.50,133.00)" id="shape21">
+            <path d="M.0,.0L.0,27.0L-25.5,27.0L-25.5,50.5" fill="none" stroke="#000000" stroke-width="2"/>
+            <path fill="#000000" d="M-21.3,50.5L-25.5,59.0L-29.7,50.5L-21.3,50.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(94.50,133.00)" id="shape22">
+            <path d="M.0,.0L.0,27.0L25.5,27.0L25.5,50.5" fill="none" stroke="#000000" stroke-width="2"/>
+            <path fill="#000000" d="M29.7,50.5L25.5,59.0L21.3,50.5L29.7,50.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(94.50,133.00)" id="shape23">
+            <path d="M.0,.0L.0,27.0L76.5,27.0L76.5,50.5" fill="none" stroke="#000000" stroke-width="2"/>
+            <path fill="#000000" d="M80.7,50.5L76.5,59.0L72.3,50.5L80.7,50.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <path fill="#ffffff" d="M192.0,36.0L192.0,.0L.0,.0L.0,36.0L192.0,36.0z" transform="matrix(0.00,1.00,-1.00,0.00,247.0,192.0)" fill-rule="nonzero" stroke="#323232" id="shape24" stroke-width="2"/>
+        <g transform="translate(212.00,214.00)" id="shape25">
+            <text xml:space="preserve" style="fill:#191919;font-family:SimSun;font-size:16.00pt">
+                <tspan y="46.8" x="6.2">数</tspan>
+                <tspan y="71.6" x="6.2">据</tspan>
+                <tspan y="96.4" x="6.2">清</tspan>
+                <tspan y="121.2" x="6.2">洗</tspan>
+            </text>
+        </g>
+        <path fill="#ffffff" d="M192.0,36.0L192.0,.0L.0,.0L.0,36.0L192.0,36.0z" transform="matrix(0.00,1.00,-1.00,0.00,298.0,192.0)" fill-rule="nonzero" stroke="#323232" id="shape26" stroke-width="2"/>
+        <g transform="translate(263.00,214.00)" id="shape27">
+            <text xml:space="preserve" style="fill:#191919;font-family:SimSun;font-size:16.00pt">
+                <tspan y="46.8" x="6.2">数</tspan>
+                <tspan y="71.6" x="6.2">据</tspan>
+                <tspan y="96.4" x="6.2">分</tspan>
+                <tspan y="121.2" x="6.2">析</tspan>
+            </text>
+        </g>
+        <path fill="#ffffff" d="M192.0,36.0L192.0,.0L.0,.0L.0,36.0L192.0,36.0z" transform="matrix(0.00,1.00,-1.00,0.00,349.0,192.0)" fill-rule="nonzero" stroke="#323232" id="shape28" stroke-width="2"/>
+        <g transform="translate(314.00,214.00)" id="shape29">
+            <text xml:space="preserve" style="fill:#191919;font-family:SimSun;font-size:16.00pt">
+                <tspan y="34.8" x="6.2">独</tspan>
+                <tspan y="59.6" x="6.2">立</tspan>
+                <tspan y="84.4" x="6.2">热</tspan>
+                <tspan y="109.2" x="6.2">编</tspan>
+                <tspan y="134.0" x="6.2">码</tspan>
+            </text>
+        </g>
+        <path fill="#ffffff" d="M192.0,36.0L192.0,.0L.0,.0L.0,36.0L192.0,36.0z" transform="matrix(0.00,1.00,-1.00,0.00,400.0,192.0)" fill-rule="nonzero" stroke="#323232" id="shape30" stroke-width="2"/>
+        <g transform="translate(364.00,192.00)" id="shape31">
+            <path d="M.0,.0L36.0,.0L36.0,192.0L.0,192.0L.0,.0z" fill="none" stroke="#000000" stroke-width="2"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:宋体;font-size:16.00pt">
+                <tspan y="68.8" x="7.2">向</tspan>
+                <tspan y="93.6" x="7.2">量</tspan>
+                <tspan y="118.4" x="7.2">嵌</tspan>
+                <tspan y="143.2" x="7.2">入</tspan>
+            </text>
+        </g>
+        <g transform="translate(305.50,133.00)" id="shape32">
+            <path d="M.0,.0L.0,27.0L-76.5,27.0L-76.5,50.5" fill="none" stroke="#000000" stroke-width="2"/>
+            <path fill="#000000" d="M-72.3,50.5L-76.5,59.0L-80.7,50.5L-72.3,50.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(305.50,133.00)" id="shape33">
+            <path d="M.0,.0L.0,27.0L76.5,27.0L76.5,50.5" fill="none" stroke="#000000" stroke-width="2"/>
+            <path fill="#000000" d="M80.7,50.5L76.5,59.0L72.3,50.5L80.7,50.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(305.50,133.00)" id="shape34">
+            <path d="M.0,.0L.0,27.0L25.5,27.0L25.5,50.5" fill="none" stroke="#000000" stroke-width="2"/>
+            <path fill="#000000" d="M29.7,50.5L25.5,59.0L21.3,50.5L29.7,50.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(305.50,133.00)" id="shape35">
+            <path d="M.0,.0L.0,27.0L-25.5,27.0L-25.5,50.5" fill="none" stroke="#000000" stroke-width="2"/>
+            <path fill="#000000" d="M-21.3,50.5L-25.5,59.0L-29.7,50.5L-21.3,50.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <path fill="#ffffff" d="M192.0,36.0L192.0,.0L.0,.0L.0,36.0L192.0,36.0z" transform="matrix(0.00,1.00,-1.00,0.00,500.5,192.0)" fill-rule="nonzero" stroke="#323232" id="shape36" stroke-width="2"/>
+        <g transform="translate(465.50,214.00)" id="shape37">
+            <text xml:space="preserve" style="fill:#191919;font-family:SimSun;font-size:16.00pt">
+                <tspan y="46.8" x="6.2">模</tspan>
+                <tspan y="71.6" x="6.2">型</tspan>
+                <tspan y="96.4" x="6.2">训</tspan>
+                <tspan y="121.2" x="6.2">练</tspan>
+            </text>
+        </g>
+        <path fill="#ffffff" d="M192.0,36.0L192.0,.0L.0,.0L.0,36.0L192.0,36.0z" transform="matrix(0.00,1.00,-1.00,0.00,568.5,192.0)" fill-rule="nonzero" stroke="#323232" id="shape38" stroke-width="2"/>
+        <g transform="translate(533.50,214.00)" id="shape39">
+            <text xml:space="preserve" style="fill:#191919;font-family:SimSun;font-size:16.00pt">
+                <tspan y="46.8" x="6.2">模</tspan>
+                <tspan y="71.6" x="6.2">型</tspan>
+                <tspan y="96.4" x="6.2">服</tspan>
+                <tspan y="121.2" x="6.2">务</tspan>
+            </text>
+        </g>
+        <g transform="translate(516.50,133.00)" id="shape40">
+            <path d="M.0,.0L.0,27.0L-34.0,27.0L-34.0,50.5" fill="none" stroke="#000000" stroke-width="2"/>
+            <path fill="#000000" d="M-29.8,50.5L-34.0,59.0L-38.2,50.5L-29.8,50.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(516.50,133.00)" id="shape41">
+            <path d="M.0,.0L.0,27.0L34.0,27.0L34.0,50.5" fill="none" stroke="#000000" stroke-width="2"/>
+            <path fill="#000000" d="M38.2,50.5L34.0,59.0L29.8,50.5L38.2,50.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <path fill="#ffffff" d="M192.0,36.0L192.0,.0L.0,.0L.0,36.0L192.0,36.0z" transform="matrix(0.00,1.00,-1.00,0.00,650.0,192.0)" fill-rule="nonzero" stroke="#323232" id="shape42" stroke-width="2"/>
+        <g transform="translate(615.00,208.00)" id="shape43">
+            <text xml:space="preserve" style="fill:#191919;font-family:SimSun;font-size:16.00pt">
+                <tspan y="28.8" x="6.2">用</tspan>
+                <tspan y="53.6" x="6.2">户</tspan>
+                <tspan y="78.4" x="6.2">登</tspan>
+                <tspan y="103.2" x="6.2">录</tspan>
+                <tspan y="128.0" x="6.2">注</tspan>
+                <tspan y="152.8" x="6.2">册</tspan>
+            </text>
+        </g>
+        <path fill="#ffffff" d="M192.0,36.0L192.0,.0L.0,.0L.0,36.0L192.0,36.0z" transform="matrix(0.00,1.00,-1.00,0.00,701.0,192.0)" fill-rule="nonzero" stroke="#323232" id="shape44" stroke-width="2"/>
+        <g transform="translate(666.00,208.00)" id="shape45">
+            <text xml:space="preserve" style="fill:#191919;font-family:SimSun;font-size:16.00pt">
+                <tspan y="28.8" x="6.2">个</tspan>
+                <tspan y="53.6" x="6.2">人</tspan>
+                <tspan y="78.4" x="6.2">题</tspan>
+                <tspan y="103.2" x="6.2">目</tspan>
+                <tspan y="128.0" x="6.2">推</tspan>
+                <tspan y="152.8" x="6.2">荐</tspan>
+            </text>
+        </g>
+        <path fill="#ffffff" d="M192.0,36.0L192.0,.0L.0,.0L.0,36.0L192.0,36.0z" transform="matrix(0.00,1.00,-1.00,0.00,752.0,192.0)" fill-rule="nonzero" stroke="#323232" id="shape46" stroke-width="2"/>
+        <g transform="translate(717.00,214.00)" id="shape47">
+            <text xml:space="preserve" style="fill:#191919;font-family:SimSun;font-size:16.00pt">
+                <tspan y="46.8" x="6.2">组</tspan>
+                <tspan y="71.6" x="6.2">队</tspan>
+                <tspan y="96.4" x="6.2">推</tspan>
+                <tspan y="121.2" x="6.2">荐</tspan>
+            </text>
+        </g>
+        <path fill="#ffffff" d="M192.0,36.0L192.0,.0L.0,.0L.0,36.0L192.0,36.0z" transform="matrix(0.00,1.00,-1.00,0.00,803.0,192.0)" fill-rule="nonzero" stroke="#323232" id="shape48" stroke-width="2"/>
+        <g transform="translate(768.00,214.00)" id="shape49">
+            <text xml:space="preserve" style="fill:#191919;font-family:SimSun;font-size:16.00pt">
+                <tspan y="34.8" x="6.2">数</tspan>
+                <tspan y="59.6" x="6.2">据</tspan>
+                <tspan y="84.4" x="6.2">可</tspan>
+                <tspan y="109.2" x="6.2">视</tspan>
+                <tspan y="134.0" x="6.2">化</tspan>
+            </text>
+        </g>
+        <path fill="#ffffff" d="M192.0,36.0L192.0,.0L.0,.0L.0,36.0L192.0,36.0z" transform="matrix(0.00,1.00,-1.00,0.00,854.0,192.0)" fill-rule="nonzero" stroke="#323232" id="shape50" stroke-width="2"/>
+        <g transform="translate(819.00,214.00)" id="shape51">
+            <text xml:space="preserve" style="fill:#191919;font-family:SimSun;font-size:16.00pt">
+                <tspan y="34.8" x="6.2">团</tspan>
+                <tspan y="59.6" x="6.2">队</tspan>
+                <tspan y="84.4" x="6.2">知</tspan>
+                <tspan y="109.2" x="6.2">识</tspan>
+                <tspan y="134.0" x="6.2">库</tspan>
+            </text>
+        </g>
+        <g transform="translate(734.00,133.00)" id="shape52">
+            <path d="M.0,.0L.0,27.0L-102.0,27.0L-102.0,50.5" fill="none" stroke="#000000" stroke-width="2"/>
+            <path fill="#000000" d="M-97.8,50.5L-102.0,59.0L-106.2,50.5L-97.8,50.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(734.00,133.00)" id="shape53">
+            <path d="M.0,.0L.0,27.0L-51.0,27.0L-51.0,50.5" fill="none" stroke="#000000" stroke-width="2"/>
+            <path fill="#000000" d="M-46.8,50.5L-51.0,59.0L-55.2,50.5L-46.8,50.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(734.00,133.00)" id="shape54">
+            <path d="M.0,.0L.0,50.5" fill="none" stroke="#000000" stroke-width="2"/>
+            <path fill="#000000" d="M4.2,50.5L.0,59.0L-4.2,50.5L4.2,50.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(734.00,133.00)" id="shape55">
+            <path d="M.0,.0L.0,27.0L51.0,27.0L51.0,50.5" fill="none" stroke="#000000" stroke-width="2"/>
+            <path fill="#000000" d="M55.2,50.5L51.0,59.0L46.8,50.5L55.2,50.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(734.00,133.00)" id="shape56">
+            <path d="M.0,.0L.0,27.0L102.0,27.0L102.0,50.5" fill="none" stroke="#000000" stroke-width="2"/>
+            <path fill="#000000" d="M106.2,50.5L102.0,59.0L97.8,50.5L106.2,50.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+    </g>
+</svg>

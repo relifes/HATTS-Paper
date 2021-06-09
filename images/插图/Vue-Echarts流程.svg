@@ -1,0 +1,75 @@
+<svg viewBox="0 0 223 547.5" xmlns="http://www.w3.org/2000/svg" width="223" height="548" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs/>
+    <g id="group1" transform="translate(1.00,1.00)">
+        <g id="shape2" transform="translate(60.50,0.00)">
+            <path stroke="#323232" fill-rule="nonzero" fill="#ffffff" d="M22.0,44.0L78.0,44.0L78.0,44.0C90.2,44.0,100.0,34.2,100.0,22.0C100.0,9.8,90.2,.0,78.0,.0L22.0,.0L22.0,.0C9.8,.0,.0,9.8,.0,22.0C.0,34.2,9.8,44.0,22.0,44.0z"/>
+            <text style="fill:#191919;font-family:宋体;font-size:14.00pt" xml:space="preserve">
+                <tspan y="28.6" x="31.6">开始</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(60.50,501.50)">
+            <path stroke="#323232" fill-rule="nonzero" fill="#ffffff" d="M22.0,44.0L78.0,44.0L78.0,44.0C90.2,44.0,100.0,34.2,100.0,22.0C100.0,9.8,90.2,.0,78.0,.0L22.0,.0L22.0,.0C9.8,.0,.0,9.8,.0,22.0C.0,34.2,9.8,44.0,22.0,44.0z"/>
+            <text style="fill:#191919;font-family:宋体;font-size:14.00pt" xml:space="preserve">
+                <tspan y="28.6" x="31.6">结束</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(0.00,75.50)">
+            <path stroke="#323232" fill-rule="nonzero" fill="#ffffff" d="M221.0,75.0L221.0,.0L.0,.0L.0,75.0L221.0,75.0z"/>
+            <text style="fill:#191919;font-family:宋体;font-size:14.00pt" xml:space="preserve">
+                <tspan y="33.1" x="4.5">访问用户个人界面/预览组</tspan>
+                <tspan y="53.9" x="41.3">队界面/团队空间</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(110.50,44.00)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,25.5"/>
+            <path stroke="#191919" fill="#191919" stroke-linecap="round" d="M3.0,25.5L.0,31.5L-3.0,25.5L3.0,25.5" stroke-width="1"/>
+        </g>
+        <g id="shape6" transform="translate(0.00,182.00)">
+            <path stroke="#323232" fill-rule="nonzero" fill="#ffffff" d="M221.0,75.0L221.0,.0L.0,.0L.0,75.0L221.0,75.0z"/>
+            <text style="fill:#191919;font-family:宋体;font-size:14.00pt" xml:space="preserve">
+                <tspan y="31.1" x="38.1">向</tspan>
+                <tspan style="font-family:Times New Roman" x="56.5">Gin</tspan>
+                <tspan x="83.7">发送</tspan>
+                <tspan style="font-family:Times New Roman" x="120.5">Get</tspan>
+                <tspan x="146.1">请求</tspan>
+                <tspan y="54.3" x="21.7">获取用户</tspan>
+                <tspan style="font-family:Times New Roman" x="95.3">TagsUser</tspan>
+                <tspan x="162.5">数据</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(110.50,150.50)">
+            <path stroke="#191919" fill="none" d="M.0,.0L-0.0,25.5"/>
+            <path stroke="#191919" fill="#191919" stroke-linecap="round" d="M3.0,25.5L-0.0,31.5L-3.0,25.5L3.0,25.5" stroke-width="1"/>
+        </g>
+        <g id="shape8" transform="translate(0.00,288.50)">
+            <path stroke="#323232" fill-rule="nonzero" fill="#ffffff" d="M221.0,75.0L221.0,.0L.0,.0L.0,75.0L221.0,75.0z"/>
+            <text style="fill:#191919;font-family:宋体;font-size:14.00pt" xml:space="preserve">
+                <tspan y="32.1" x="51.3">根据</tspan>
+                <tspan style="font-family:Times New Roman" x="88.1">Uid</tspan>
+                <tspan x="114.5">从数据</tspan>
+                <tspan y="55.3" x="55.3">库中取出数据</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(110.50,257.00)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,25.5"/>
+            <path stroke="#191919" fill="#191919" stroke-linecap="round" d="M3.0,25.5L.0,31.5L-3.0,25.5L3.0,25.5" stroke-width="1"/>
+        </g>
+        <g id="shape10" transform="translate(0.00,395.00)">
+            <path stroke="#323232" fill-rule="nonzero" fill="#ffffff" d="M221.0,75.0L221.0,.0L.0,.0L.0,75.0L221.0,75.0z"/>
+            <text style="fill:#191919;font-family:宋体;font-size:14.00pt" xml:space="preserve">
+                <tspan y="32.1" x="10.1">使用</tspan>
+                <tspan style="font-family:Times New Roman" x="46.9">Vue-Echarts</tspan>
+                <tspan x="137.3">对数据可</tspan>
+                <tspan y="55.3" x="73.7">视化显示</tspan>
+            </text>
+        </g>
+        <g id="shape11" transform="translate(110.50,363.50)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,15.5L-0.0,15.5L-0.0,25.5"/>
+            <path stroke="#191919" fill="#191919" stroke-linecap="round" d="M3.0,25.5L-0.0,31.5L-3.0,25.5L3.0,25.5" stroke-width="1"/>
+        </g>
+        <g id="shape12" transform="translate(110.50,470.00)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,25.5"/>
+            <path stroke="#191919" fill="#191919" stroke-linecap="round" d="M3.0,25.5L.0,31.5L-3.0,25.5L3.0,25.5" stroke-width="1"/>
+        </g>
+    </g>
+</svg>

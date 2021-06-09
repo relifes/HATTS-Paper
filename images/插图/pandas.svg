@@ -1,0 +1,84 @@
+<svg viewBox="0 0 792 198" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="198" width="792">
+    <defs/>
+    <g transform="translate(1.00,1.00)" id="group1">
+        <g transform="translate(-0.00,12.00)" id="shape2">
+            <path stroke="#323232" d="M22.0,44.0L78.0,44.0L78.0,44.0C90.2,44.0,100.0,34.2,100.0,22.0C100.0,9.8,90.2,.0,78.0,.0L22.0,.0L22.0,.0C9.8,.0,.0,9.8,.0,22.0C.0,34.2,9.8,44.0,22.0,44.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:SimSun;font-size:14.00pt" xml:space="preserve">
+                <tspan style="font-family:宋体" x="31.6" y="28.6">开始</tspan>
+            </text>
+        </g>
+        <g transform="translate(133.93,0.00)" id="shape3">
+            <path stroke="#323232" d="M196.1,68.0L196.1,.0L.0,.0L.0,68.0L196.1,68.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan x="17.6" y="27.6">修改Jupyter Lab配置</tspan>
+                <tspan x="43.6" y="50.8">导入CSV数据</tspan>
+            </text>
+        </g>
+        <g transform="translate(0.00,140.00)" id="shape4">
+            <path stroke="#323232" d="M22.0,44.0L78.0,44.0L78.0,44.0C90.2,44.0,100.0,34.2,100.0,22.0C100.0,9.8,90.2,.0,78.0,.0L22.0,.0L22.0,.0C9.8,.0,.0,9.8,.0,22.0C.0,34.2,9.8,44.0,22.0,44.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:SimSun;font-size:14.00pt" xml:space="preserve">
+                <tspan x="31.6" y="28.6">结束</tspan>
+            </text>
+        </g>
+        <g transform="translate(100.00,34.00)" id="shape5">
+            <path stroke="#191919" d="M.0,.0L27.9,.0" fill="none"/>
+            <path stroke="#191919" d="M27.9,-3.0L33.9,.0L27.9,3.0L27.9,-3.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(330.00,34.00)" id="shape6">
+            <path stroke="#191919" d="M.0,.0L27.9,.0" fill="none"/>
+            <path stroke="#191919" d="M27.9,-3.0L33.9,.0L27.9,3.0L27.9,-3.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(363.93,0.00)" id="shape7">
+            <path stroke="#323232" d="M196.1,68.0L196.1,.0L.0,.0L.0,68.0L196.1,68.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan x="61.2" y="27.6">将三个表</tspan>
+                <tspan x="24.4" y="50.8">合并、去重、排序</tspan>
+            </text>
+        </g>
+        <g transform="translate(560.00,34.00)" id="shape8">
+            <path stroke="#191919" d="M.0,.0L27.9,.0" fill="none"/>
+            <path stroke="#191919" d="M27.9,-3.0L33.9,.0L27.9,3.0L27.9,-3.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(593.93,0.00)" id="shape9">
+            <path stroke="#323232" d="M196.1,68.0L196.1,.0L.0,.0L.0,68.0L196.1,68.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan x="29.6" y="27.6">切割Tag，并删除</tspan>
+                <tspan x="34.4" y="50.8">*special problem</tspan>
+            </text>
+        </g>
+        <g transform="translate(691.97,68.00)" id="shape10">
+            <path stroke="#191919" d="M.0,.0L.0,54.0" fill="none"/>
+            <path stroke="#191919" d="M3.0,54.0L.0,60.0L-3.0,54.0L3.0,54.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(593.93,128.00)" id="shape11">
+            <path stroke="#323232" d="M196.1,68.0L196.1,.0L.0,.0L.0,68.0L196.1,68.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan x="16.8" y="39.6">自定义Tags过滤规则</tspan>
+            </text>
+        </g>
+        <g transform="translate(593.93,162.00)" id="shape12">
+            <path stroke="#191919" d="M.0,.0L-27.9,.0" fill="none"/>
+            <path stroke="#191919" d="M-27.9,3.0L-33.9,.0L-27.9,-3.0L-27.9,3.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(363.93,128.00)" id="shape13">
+            <path stroke="#323232" d="M196.1,68.0L196.1,.0L.0,.0L.0,68.0L196.1,68.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan x="61.2" y="39.6">分组聚合</tspan>
+            </text>
+        </g>
+        <g transform="translate(133.93,128.00)" id="shape14">
+            <path stroke="#323232" d="M196.1,68.0L196.1,.0L.0,.0L.0,68.0L196.1,68.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan x="61.2" y="39.6">数据透析</tspan>
+            </text>
+        </g>
+        <g transform="translate(363.93,162.00)" id="shape15">
+            <path stroke="#191919" d="M.0,.0L-27.9,.0" fill="none"/>
+            <path stroke="#191919" d="M-27.9,3.0L-33.9,.0L-27.9,-3.0L-27.9,3.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(133.93,162.00)" id="shape16">
+            <path stroke="#191919" d="M.0,.0L-27.9,.0" fill="none"/>
+            <path stroke="#191919" d="M-27.9,3.0L-33.9,.0L-27.9,-3.0L-27.9,3.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,95 @@
+<svg viewBox="0 0 424 474.153" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="474" width="424">
+    <defs/>
+    <g transform="translate(1.00,1.00)" id="group1">
+        <g transform="translate(161.03,-0.00)" id="shape2">
+            <path stroke="#323232" d="M21.4,42.8L78.6,42.8L78.6,42.8C90.4,42.8,100.0,33.2,100.0,21.4C100.0,9.6,90.4,.0,78.6,.0L21.4,.0L21.4,.0C9.6,.0,.0,9.6,.0,21.4C.0,33.2,9.6,42.8,21.4,42.8z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:宋体;font-size:14.00pt" xml:space="preserve">
+                <tspan x="31.6" y="28.0">开始</tspan>
+            </text>
+        </g>
+        <g transform="translate(211.03,42.79)" id="shape3">
+            <path stroke="#191919" d="M.0,.0L.0,15.7" fill="none"/>
+            <path stroke="#191919" d="M3.0,15.7L.0,21.7L-3.0,15.7L3.0,15.7" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(113.00,64.53)" id="shape4">
+            <path stroke="#323232" d="M196.1,58.0L196.1,.0L.0,.0L.0,58.0L196.1,58.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan x="7.2" y="22.6">从Pandas中读取数据至</tspan>
+                <tspan x="33.2" y="45.8">Spark DataFrame</tspan>
+            </text>
+        </g>
+        <g transform="translate(33.07,330.02)" id="shape5">
+            <path d="M.0,13.1L.0,55.7L.0,55.7C.0,63.0,29.3,68.8,65.5,68.8C101.6,68.8,131.0,63.0,131.0,55.7L131.0,13.1L131.0,13.1C131.0,5.9,101.6,.0,65.5,.0C29.3,.0,.0,5.9,.0,13.1z" fill-rule="nonzero" fill="#ffffff"/>
+            <path stroke="#323232" d="M.0,13.1L.0,55.7L.0,55.7C.0,63.0,29.3,68.8,65.5,68.8C101.6,68.8,131.0,63.0,131.0,55.7L131.0,13.1L131.0,13.1C131.0,5.9,101.6,.0,65.5,.0C29.3,.0,.0,5.9,.0,13.1zM131.0,13.1C131.0,20.3,101.6,26.2,65.5,26.2C29.3,26.2,.0,20.3,.0,13.1" fill="none"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan x="17.1" y="49.8">存储到Redis</tspan>
+            </text>
+        </g>
+        <g transform="translate(48.55,429.36)" id="shape6">
+            <path stroke="#323232" d="M21.4,42.8L78.6,42.8L78.6,42.8C90.4,42.8,100.0,33.2,100.0,21.4C100.0,9.6,90.4,.0,78.6,.0L21.4,.0L21.4,.0C9.6,.0,.0,9.6,.0,21.4C.0,33.2,9.6,42.8,21.4,42.8z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:SimSun;font-size:14.00pt" xml:space="preserve">
+                <tspan x="31.6" y="28.0">结束</tspan>
+            </text>
+        </g>
+        <g transform="translate(98.55,398.87)" id="shape7">
+            <path stroke="#191919" d="M.0,.0L.0,24.5" fill="none"/>
+            <path stroke="#191919" d="M3.0,24.5L.0,30.5L-3.0,24.5L3.0,24.5" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(211.03,122.53)" id="shape8">
+            <path stroke="#191919" d="M.0,.0L.0,14.5L-113.0,14.5L-113.0,24.5" fill="none"/>
+            <path stroke="#191919" d="M-110.0,24.5L-113.0,30.5L-116.0,24.5L-110.0,24.5" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(211.03,122.53)" id="shape9">
+            <path stroke="#191919" d="M.0,.0L.0,14.5L113.0,14.5L113.0,24.5" fill="none"/>
+            <path stroke="#191919" d="M116.0,24.5L113.0,30.5L110.0,24.5L116.0,24.5" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(113.00,241.53)" id="shape10">
+            <path stroke="#323232" d="M196.1,58.0L196.1,.0L.0,.0L.0,58.0L196.1,58.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan x="63.6" y="34.0">Item2Vec</tspan>
+            </text>
+        </g>
+        <g transform="translate(98.03,211.03)" id="shape11">
+            <path stroke="#191919" d="M.0,.0L.0,14.5L113.0,14.5L113.0,24.5" fill="none"/>
+            <path stroke="#191919" d="M116.0,24.5L113.0,30.5L110.0,24.5L116.0,24.5" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(324.03,211.03)" id="shape12">
+            <path stroke="#191919" d="M.0,.0L.0,14.5L-113.0,14.5L-113.0,24.5" fill="none"/>
+            <path stroke="#191919" d="M-110.0,24.5L-113.0,30.5L-116.0,24.5L-110.0,24.5" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(0.00,153.03)" id="group13">
+            <g transform="translate(0.00,-0.00)" id="shape14">
+                <path stroke="#323232" d="M196.1,58.0L196.1,.0L.0,.0L.0,58.0L196.1,58.0z" fill-rule="nonzero" fill="#ffffff"/>
+                <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                    <tspan x="51.6" y="22.6">对ID类特征</tspan>
+                    <tspan x="29.2" y="45.8">进行One-Hot编码</tspan>
+                </text>
+            </g>
+            <g transform="translate(226.00,-0.00)" id="shape15">
+                <path stroke="#323232" d="M196.1,58.0L196.1,.0L.0,.0L.0,58.0L196.1,58.0z" fill-rule="nonzero" fill="#ffffff"/>
+                <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                    <tspan x="36.0" y="22.6">对Tag, Title特征</tspan>
+                    <tspan x="25.2" y="45.8">进行Multi-Hot编码</tspan>
+                </text>
+            </g>
+        </g>
+        <g transform="translate(211.03,299.52)" id="shape16">
+            <path stroke="#191919" d="M.0,.0L.0,14.5L-112.5,14.5L-112.5,24.5" fill="none"/>
+            <path stroke="#191919" d="M-109.5,24.5L-112.5,30.5L-115.5,24.5L-109.5,24.5" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(226.00,330.02)" id="shape17">
+            <path stroke="#323232" d="M196.1,68.8L196.1,.0L.0,.0L.0,68.8L196.1,68.8z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:14.00pt" xml:space="preserve">
+                <tspan x="39.2" y="39.4">EmbeddingLSH</tspan>
+            </text>
+        </g>
+        <g transform="translate(211.03,299.52)" id="shape18">
+            <path stroke="#191919" d="M.0,.0L.0,14.5L113.0,14.5L113.0,24.5" fill="none"/>
+            <path stroke="#191919" d="M116.0,24.5L113.0,30.5L110.0,24.5L116.0,24.5" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(226.00,364.44)" id="shape19">
+            <path stroke="#191919" d="M.0,.0L-56.0,-0.0" fill="none"/>
+            <path stroke="#191919" d="M-56.0,3.0L-62.0,-0.0L-56.0,-3.0L-56.0,3.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+    </g>
+</svg>

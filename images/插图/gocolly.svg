@@ -1,0 +1,98 @@
+<svg viewBox="0 0 429 346.402" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="346" width="429">
+    <defs/>
+    <g transform="translate(5.00,1.00)" id="group1">
+        <g transform="translate(35.00,78.35)" id="shape2">
+            <path stroke="#323232" d="M120.0,31.0L120.0,.0L.0,.0L.0,31.0L120.0,31.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:12.00pt" xml:space="preserve">
+                <tspan x="25.6" y="19.1">OnRequest</tspan>
+            </text>
+        </g>
+        <g transform="translate(35.00,156.70)" id="shape3">
+            <path stroke="#323232" d="M120.0,31.0L120.0,.0L.0,.0L.0,31.0L120.0,31.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:12.00pt" xml:space="preserve">
+                <tspan x="20.4" y="19.1">OnResponse</tspan>
+            </text>
+        </g>
+        <g transform="translate(35.00,235.05)" id="shape4">
+            <path stroke="#323232" d="M120.0,31.0L120.0,.0L.0,.0L.0,31.0L120.0,31.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:12.00pt" xml:space="preserve">
+                <tspan x="29.2" y="19.1">OnHTML</tspan>
+            </text>
+        </g>
+        <g transform="translate(35.00,313.40)" id="shape5">
+            <path stroke="#323232" d="M120.0,31.0L120.0,.0L.0,.0L.0,31.0L120.0,31.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:12.00pt" xml:space="preserve">
+                <tspan x="24.8" y="19.1">OnScraped</tspan>
+            </text>
+        </g>
+        <g transform="translate(95.00,109.35)" id="shape6">
+            <path stroke="#191919" d="M.0,.0L.0,41.4" fill="none"/>
+            <path stroke="#191919" d="M3.0,41.4L.0,47.4L-3.0,41.4L3.0,41.4" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(95.00,187.70)" id="shape7">
+            <path stroke="#191919" d="M.0,.0L.0,41.4" fill="none"/>
+            <path stroke="#191919" d="M3.0,41.4L.0,47.4L-3.0,41.4L3.0,41.4" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(95.00,266.05)" id="shape8">
+            <path stroke="#191919" d="M.0,.0L.0,41.4" fill="none"/>
+            <path stroke="#191919" d="M3.0,41.4L.0,47.4L-3.0,41.4L3.0,41.4" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(220.00,78.35)" id="shape9">
+            <path stroke="#323232" d="M120.0,31.0L120.0,.0L.0,.0L.0,31.0L120.0,31.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:12.00pt" xml:space="preserve">
+                <tspan x="12.0" y="20.2">在请求前调用</tspan>
+            </text>
+        </g>
+        <path stroke="#191919" transform="translate(155.00,93.85)" d="M.0,.0L65.0,.0" id="shape10" fill="none"/>
+        <g transform="translate(220.00,156.70)" id="shape11">
+            <path stroke="#323232" d="M143.0,31.0L143.0,.0L.0,.0L.0,31.0L143.0,31.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:12.00pt" xml:space="preserve">
+                <tspan x="7.5" y="20.2">在得到响应后调用</tspan>
+            </text>
+        </g>
+        <path stroke="#191919" transform="translate(155.00,172.20)" d="M.0,.0L65.0,.0" id="shape12" fill="none"/>
+        <g transform="translate(220.00,235.05)" id="shape13">
+            <path stroke="#323232" d="M203.0,31.0L203.0,.0L.0,.0L.0,31.0L203.0,31.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:12.00pt" xml:space="preserve">
+                <tspan x="7.9" y="20.2">在得到解析的HTML后调用</tspan>
+            </text>
+        </g>
+        <path stroke="#191919" transform="translate(155.00,250.55)" d="M.0,.0L65.0,.0" id="shape14" fill="none"/>
+        <g transform="translate(220.00,313.40)" id="shape15">
+            <path stroke="#323232" d="M143.0,31.0L143.0,.0L.0,.0L.0,31.0L143.0,31.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:12.00pt" xml:space="preserve">
+                <tspan x="15.5" y="20.2">爬取完毕后调用</tspan>
+            </text>
+        </g>
+        <path stroke="#191919" transform="translate(155.00,328.90)" d="M.0,.0L65.0,.0" id="shape16" fill="none"/>
+        <g transform="translate(35.00,0.00)" id="shape17">
+            <path stroke="#323232" d="M120.0,31.0L120.0,.0L.0,.0L.0,31.0L120.0,31.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:12.00pt" xml:space="preserve">
+                <tspan x="33.6" y="19.1">OnError</tspan>
+            </text>
+        </g>
+        <g transform="translate(220.00,0.00)" id="shape18">
+            <path stroke="#323232" d="M120.0,31.0L120.0,.0L.0,.0L.0,31.0L120.0,31.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Times New Roman;font-size:12.00pt" xml:space="preserve">
+                <tspan x="12.0" y="20.2">在出错后调用</tspan>
+            </text>
+        </g>
+        <path stroke="#191919" transform="translate(155.00,15.50)" d="M.0,.0L65.0,.0" id="shape19" fill="none"/>
+        <g transform="translate(35.00,15.50)" id="shape20">
+            <path stroke="#191919" d="M.0,.0L-35.0,.0L-35.0,313.4L-6.0,313.4" stroke-dasharray="11,5,2.5,5" fill="none"/>
+            <path stroke="#191919" d="M-6.0,310.4L.0,313.4L-6.0,316.4L-6.0,310.4" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(35.00,15.50)" id="shape21">
+            <path stroke="#191919" d="M.0,.0L-35.0,.0L-35.0,78.4L-6.0,78.4" stroke-dasharray="11,5,2.5,5" fill="none"/>
+            <path stroke="#191919" d="M-6.0,75.4L.0,78.4L-6.0,81.4L-6.0,75.4" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(35.00,15.50)" id="shape22">
+            <path stroke="#191919" d="M.0,.0L-35.0,.0L-35.0,156.7L-6.0,156.7" stroke-dasharray="11,5,2.5,5" fill="none"/>
+            <path stroke="#191919" d="M-6.0,153.7L.0,156.7L-6.0,159.7L-6.0,153.7" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(35.00,15.50)" id="shape23">
+            <path stroke="#191919" d="M.0,.0L-35.0,.0L-35.0,235.1L-6.0,235.1" stroke-dasharray="11,5,2.5,5" fill="none"/>
+            <path stroke="#191919" d="M-6.0,232.1L.0,235.1L-6.0,238.1L-6.0,232.1" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+    </g>
+</svg>

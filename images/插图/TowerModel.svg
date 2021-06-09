@@ -1,0 +1,200 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="616" xmlns="http://www.w3.org/2000/svg" width="761" viewBox="0 0 761 616">
+    <defs/>
+    <g transform="translate(1.00,1.00)" id="group1">
+        <g transform="translate(389.00,221.00)" id="shape2">
+            <path fill="#ffffff" d="M.0,.0L370.0,.0L370.0,393.0L.0,393.0L.0,.0z" fill-rule="nonzero" stroke="#000000" stroke-dasharray="11,5"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan y="20.0" x="3.2">ProblemTower</tspan>
+            </text>
+        </g>
+        <g transform="translate(0.00,221.00)" id="shape3">
+            <path fill="#ffffff" d="M.0,.0L370.0,.0L370.0,393.0L.0,393.0L.0,.0z" fill-rule="nonzero" stroke="#000000" stroke-dasharray="11,5"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan y="20.0" x="3.2">UserTower</tspan>
+            </text>
+        </g>
+        <g transform="translate(427.00,464.00)" id="shape4">
+            <path fill="#ffffff" d="M126.0,38.0L126.0,7.0C126.0,3.1,122.9,.0,119.0,.0L7.0,.0C3.1,.0,.0,3.1,.0,7.0L.0,38.0C.0,41.9,3.1,45.0,7.0,45.0L119.0,45.0C122.9,45.0,126.0,41.9,126.0,38.0z" fill-rule="nonzero" stroke="#000000"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan y="27.5" x="19.8">Pid_Embed</tspan>
+            </text>
+        </g>
+        <g transform="translate(588.13,456.50)" id="shape5">
+            <path fill="#ffffff" d="M156.8,53.0L156.8,7.0C156.8,3.1,153.6,.0,149.8,.0L7.0,.0C3.1,.0,.0,3.1,.0,7.0L.0,53.0C.0,56.9,3.1,60.0,7.0,60.0L149.8,60.0C153.6,60.0,156.8,56.9,156.8,53.0z" fill-rule="nonzero" stroke="#000000"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan y="24.0" x="3.6">ProblemScore_Emb</tspan>
+                <tspan y="45.6" x="69.6">ed</tspan>
+            </text>
+        </g>
+        <g transform="translate(50.33,537.00)" id="shape6">
+            <path fill="#ffffff" d="M.0,31.0C.0,13.9,23.1,.0,51.7,.0C80.2,.0,103.3,13.9,103.3,31.0C103.3,48.1,80.2,62.0,51.7,62.0C23.1,62.0,.0,48.1,.0,31.0z" fill-rule="nonzero" stroke="#000000"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan y="36.0" x="10.5">UserId_idx</tspan>
+            </text>
+        </g>
+        <g transform="translate(216.33,537.00)" id="shape7">
+            <path fill="#ffffff" d="M.0,31.0C.0,13.9,23.1,.0,51.7,.0C80.2,.0,103.3,13.9,103.3,31.0C103.3,48.1,80.2,62.0,51.7,62.0C23.1,62.0,.0,48.1,.0,31.0z" fill-rule="nonzero" stroke="#000000"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan y="36.0" x="13.7">UserScore</tspan>
+            </text>
+        </g>
+        <g transform="translate(427.81,537.00)" id="shape8">
+            <path fill="#ffffff" d="M.0,35.0C.0,15.7,27.8,.0,62.2,.0C96.5,.0,124.4,15.7,124.4,35.0C124.4,54.3,96.5,70.0,62.2,70.0C27.8,70.0,.0,54.3,.0,35.0z" fill-rule="nonzero" stroke="#000000"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan y="40.0" x="4.6">ProblemID_idx</tspan>
+            </text>
+        </g>
+        <g transform="translate(608.17,537.00)" id="shape9">
+            <path fill="#ffffff" d="M.0,35.0C.0,15.7,26.1,.0,58.3,.0C90.5,.0,116.7,15.7,116.7,35.0C116.7,54.3,90.5,70.0,58.3,70.0C26.1,70.0,.0,54.3,.0,35.0z" fill-rule="nonzero" stroke="#000000"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan y="40.0" x="5.5">ProblemScore</tspan>
+            </text>
+        </g>
+        <g transform="translate(102.00,537.00)" id="shape10">
+            <path d="M.0,.0L.0,-22.0" fill="none" stroke="#000000"/>
+            <path fill="#000000" d="M-3.0,-22.0L.0,-28.0L3.0,-22.0L-3.0,-22.0" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(268.00,537.00)" id="shape11">
+            <path d="M.0,.0L.0,-14.5" fill="none" stroke="#000000"/>
+            <path fill="#000000" d="M-3.0,-14.5L.0,-20.5L3.0,-14.5L-3.0,-14.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(490.00,537.00)" id="shape12">
+            <path d="M.0,.0L.0,-22.0" fill="none" stroke="#000000"/>
+            <path fill="#000000" d="M-3.0,-22.0L.0,-28.0L3.0,-22.0L-3.0,-22.0" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(666.50,537.00)" id="shape13">
+            <path d="M.0,.0L.0,-14.5" fill="none" stroke="#000000"/>
+            <path fill="#000000" d="M-3.0,-14.5L.0,-20.5L3.0,-14.5L-3.0,-14.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(87.00,388.00)" id="shape14">
+            <path fill="#ffffff" d="M196.0,38.0L196.0,7.0C196.0,3.1,192.9,.0,189.0,.0L7.0,.0C3.1,.0,.0,3.1,.0,7.0L.0,38.0C.0,41.9,3.1,45.0,7.0,45.0L189.0,45.0C192.9,45.0,196.0,41.9,196.0,38.0z" fill-rule="nonzero" stroke="#000000"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan y="27.5" x="36.0">UserConcatenate</tspan>
+            </text>
+        </g>
+        <g transform="translate(39.00,464.00)" id="shape15">
+            <path fill="#ffffff" d="M126.0,38.0L126.0,7.0C126.0,3.1,122.9,.0,119.0,.0L7.0,.0C3.1,.0,.0,3.1,.0,7.0L.0,38.0C.0,41.9,3.1,45.0,7.0,45.0L119.0,45.0C122.9,45.0,126.0,41.9,126.0,38.0z" fill-rule="nonzero" stroke="#000000"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan y="27.5" x="5.8">UserID_Embed</tspan>
+            </text>
+        </g>
+        <g transform="translate(205.00,456.50)" id="shape16">
+            <path fill="#ffffff" d="M126.0,53.0L126.0,7.0C126.0,3.1,122.9,.0,119.0,.0L7.0,.0C3.1,.0,.0,3.1,.0,7.0L.0,53.0C.0,56.9,3.1,60.0,7.0,60.0L119.0,60.0C122.9,60.0,126.0,56.9,126.0,53.0z" fill-rule="nonzero" stroke="#000000"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan y="24.0" x="7.8">UserScore_Em</tspan>
+                <tspan y="45.6" x="49.4">bed</tspan>
+            </text>
+        </g>
+        <g transform="translate(102.00,464.00)" id="shape17">
+            <path d="M.0,.0L.0,-15.0L83.0,-15.0L83.0,-25.0" fill="none" stroke="#000000"/>
+            <path fill="#000000" d="M80.0,-25.0L83.0,-31.0L86.0,-25.0L80.0,-25.0" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(268.00,456.50)" id="shape18">
+            <path d="M.0,.0L.0,-7.5L-83.0,-7.5L-83.0,-17.5" fill="none" stroke="#000000"/>
+            <path fill="#000000" d="M-86.0,-17.5L-83.0,-23.5L-80.0,-17.5L-86.0,-17.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(476.00,388.00)" id="shape19">
+            <path fill="#ffffff" d="M196.0,38.0L196.0,7.0C196.0,3.1,192.9,.0,189.0,.0L7.0,.0C3.1,.0,.0,3.1,.0,7.0L.0,38.0C.0,41.9,3.1,45.0,7.0,45.0L189.0,45.0C192.9,45.0,196.0,41.9,196.0,38.0z" fill-rule="nonzero" stroke="#000000"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan y="27.5" x="21.2">ProblemConcatenate</tspan>
+            </text>
+        </g>
+        <g transform="translate(490.00,464.00)" id="shape20">
+            <path d="M.0,.0L.0,-15.0L84.0,-15.0L84.0,-25.0" fill="none" stroke="#000000"/>
+            <path fill="#000000" d="M81.0,-25.0L84.0,-31.0L87.0,-25.0L81.0,-25.0" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(666.50,456.50)" id="shape21">
+            <path d="M.0,.0L.0,-7.5L-92.5,-7.5L-92.5,-17.5" fill="none" stroke="#000000"/>
+            <path fill="#000000" d="M-95.5,-17.5L-92.5,-23.5L-89.5,-17.5L-95.5,-17.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(87.00,312.00)" id="shape22">
+            <path fill="#ffffff" d="M196.0,38.0L196.0,7.0C196.0,3.1,192.9,.0,189.0,.0L7.0,.0C3.1,.0,.0,3.1,.0,7.0L.0,38.0C.0,41.9,3.1,45.0,7.0,45.0L189.0,45.0C192.9,45.0,196.0,41.9,196.0,38.0z" fill-rule="nonzero" stroke="#000000"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan y="27.5" x="37.6">Dense 32(ReLu)</tspan>
+            </text>
+        </g>
+        <g transform="translate(476.00,312.00)" id="shape23">
+            <path fill="#ffffff" d="M196.0,38.0L196.0,7.0C196.0,3.1,192.9,.0,189.0,.0L7.0,.0C3.1,.0,.0,3.1,.0,7.0L.0,38.0C.0,41.9,3.1,45.0,7.0,45.0L189.0,45.0C192.9,45.0,196.0,41.9,196.0,38.0z" fill-rule="nonzero" stroke="#000000"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan y="27.5" x="37.6">Dense 32(ReLu)</tspan>
+            </text>
+        </g>
+        <g transform="translate(118.50,236.00)" id="shape24">
+            <path fill="#ffffff" d="M133.0,38.0L133.0,7.0C133.0,3.1,129.9,.0,126.0,.0L7.0,.0C3.1,.0,.0,3.1,.0,7.0L.0,38.0C.0,41.9,3.1,45.0,7.0,45.0L126.0,45.0C129.9,45.0,133.0,41.9,133.0,38.0z" fill-rule="nonzero" stroke="#000000"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan y="27.5" x="10.5">Dense 8(ReLu)</tspan>
+            </text>
+        </g>
+        <g transform="translate(507.50,236.00)" id="shape25">
+            <path fill="#ffffff" d="M133.0,38.0L133.0,7.0C133.0,3.1,129.9,.0,126.0,.0L7.0,.0C3.1,.0,.0,3.1,.0,7.0L.0,38.0C.0,41.9,3.1,45.0,7.0,45.0L126.0,45.0C129.9,45.0,133.0,41.9,133.0,38.0z" fill-rule="nonzero" stroke="#000000"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan y="27.5" x="10.5">Dense 8(ReLu)</tspan>
+            </text>
+        </g>
+        <g transform="translate(185.00,388.00)" id="shape26">
+            <path d="M.0,.0L.0,-25.0" fill="none" stroke="#000000"/>
+            <path fill="#000000" d="M-3.0,-25.0L.0,-31.0L3.0,-25.0L-3.0,-25.0" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(574.00,388.00)" id="shape27">
+            <path d="M.0,.0L.0,-25.0" fill="none" stroke="#000000"/>
+            <path fill="#000000" d="M-3.0,-25.0L.0,-31.0L3.0,-25.0L-3.0,-25.0" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(185.00,312.00)" id="shape28">
+            <path d="M.0,.0L.0,-25.0" fill="none" stroke="#000000"/>
+            <path fill="#000000" d="M-3.0,-25.0L.0,-31.0L3.0,-25.0L-3.0,-25.0" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(574.00,312.00)" id="shape29">
+            <path d="M.0,.0L.0,-25.0" fill="none" stroke="#000000"/>
+            <path fill="#000000" d="M-3.0,-25.0L.0,-31.0L3.0,-25.0L-3.0,-25.0" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(309.75,153.00)" id="shape30">
+            <path fill="#ffffff" d="M139.5,38.0L139.5,7.0C139.5,3.1,136.4,.0,132.5,.0L7.0,.0C3.1,.0,.0,3.1,.0,7.0L.0,38.0C.0,41.9,3.1,45.0,7.0,45.0L132.5,45.0C136.4,45.0,139.5,41.9,139.5,38.0z" fill-rule="nonzero" stroke="#000000"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan y="27.5" x="24.6">Dot Product</tspan>
+            </text>
+        </g>
+        <g transform="translate(379.50,153.00)" id="shape31">
+            <path d="M.0,.0L.0,-13.5" fill="none" stroke="#000000"/>
+            <path fill="#000000" d="M-3.0,-13.5L.0,-19.5L3.0,-13.5L-3.0,-13.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(309.75,73.50)" id="shape32">
+            <path fill="#ffffff" d="M139.5,53.0L139.5,7.0C139.5,3.1,136.4,.0,132.5,.0L7.0,.0C3.1,.0,.0,3.1,.0,7.0L.0,53.0C.0,56.9,3.1,60.0,7.0,60.0L132.5,60.0C136.4,60.0,139.5,56.9,139.5,53.0z" fill-rule="nonzero" stroke="#000000"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan y="24.0" x="40.1">Dense 1</tspan>
+                <tspan y="45.6" x="32.1">(Sigmoid)</tspan>
+            </text>
+        </g>
+        <g transform="translate(185.00,236.00)" id="shape33">
+            <path d="M.0,.0L.0,-60.5L119.3,-60.5" fill="none" stroke="#000000"/>
+            <path fill="#000000" d="M119.3,-63.5L125.3,-60.5L119.3,-57.5L119.3,-63.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(574.00,236.00)" id="shape34">
+            <path d="M.0,.0L.0,-60.5L-118.3,-60.5" fill="none" stroke="#000000"/>
+            <path fill="#000000" d="M-118.3,-57.5L-124.3,-60.5L-118.3,-63.5L-118.3,-57.5" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(555.50,0.00)" id="shape35">
+            <path fill="#ffffff" d="M.0,31.0C.0,13.9,27.5,.0,61.4,.0C95.3,.0,122.8,13.9,122.8,31.0C122.8,48.1,95.3,62.0,61.4,62.0C27.5,62.0,.0,48.1,.0,31.0z" fill-rule="nonzero" stroke="#000000"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan y="36.0" x="8.2">User_TagsAvg</tspan>
+            </text>
+        </g>
+        <g transform="translate(555.50,31.00)" id="shape36">
+            <path d="M.0,.0L-103.5,.0" fill="none" stroke="#000000"/>
+            <path fill="#000000" d="M-103.5,3.0L-109.5,.0L-103.5,-3.0L-103.5,3.0" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+            <rect y="-11.8" fill="#ffffff" height="21.6" x="-71.8" width="39.2"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan y="5.0" x="-71.8">Train</tspan>
+            </text>
+        </g>
+        <g transform="translate(313.00,8.50)" id="shape37">
+            <path fill="#ffffff" d="M133.0,38.0L133.0,7.0C133.0,3.1,129.9,.0,126.0,.0L7.0,.0C3.1,.0,.0,3.1,.0,7.0L.0,38.0C.0,41.9,3.1,45.0,7.0,45.0L126.0,45.0C129.9,45.0,133.0,41.9,133.0,38.0z" fill-rule="nonzero" stroke="#000000"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:14.00pt">
+                <tspan y="27.5" x="16.1">Output(MSE)</tspan>
+            </text>
+        </g>
+        <g transform="translate(379.50,73.50)" id="shape38">
+            <path d="M.0,.0L.0,-14.0" fill="none" stroke="#000000"/>
+            <path fill="#000000" d="M-3.0,-14.0L.0,-20.0L3.0,-14.0L-3.0,-14.0" stroke="#000000" stroke-linecap="round" stroke-width="1"/>
+        </g>
+    </g>
+</svg>
